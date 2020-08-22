@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/ControlMyAC/static/css/main.1b12d644.chunk.css",
-    "main.js": "/ControlMyAC/static/js/main.0b3dd8f8.chunk.js",
-    "main.js.map": "/ControlMyAC/static/js/main.0b3dd8f8.chunk.js.map",
-    "runtime-main.js": "/ControlMyAC/static/js/runtime-main.e76195ca.js",
-    "runtime-main.js.map": "/ControlMyAC/static/js/runtime-main.e76195ca.js.map",
+    "main.js": "/ControlMyAC/static/js/main.87f2da20.chunk.js",
+    "main.js.map": "/ControlMyAC/static/js/main.87f2da20.chunk.js.map",
+    "runtime-main.js": "/ControlMyAC/static/js/runtime-main.aaee4510.js",
+    "runtime-main.js.map": "/ControlMyAC/static/js/runtime-main.aaee4510.js.map",
     "static/css/2.93206a05.chunk.css": "/ControlMyAC/static/css/2.93206a05.chunk.css",
-    "static/js/2.ae384257.chunk.js": "/ControlMyAC/static/js/2.ae384257.chunk.js",
-    "static/js/2.ae384257.chunk.js.map": "/ControlMyAC/static/js/2.ae384257.chunk.js.map",
-    "static/js/3.e80b791a.chunk.js": "/ControlMyAC/static/js/3.e80b791a.chunk.js",
-    "static/js/3.e80b791a.chunk.js.map": "/ControlMyAC/static/js/3.e80b791a.chunk.js.map",
+    "static/js/2.77fe011a.chunk.js": "/ControlMyAC/static/js/2.77fe011a.chunk.js",
+    "static/js/2.77fe011a.chunk.js.map": "/ControlMyAC/static/js/2.77fe011a.chunk.js.map",
+    "static/js/3.b516f9e2.chunk.js": "/ControlMyAC/static/js/3.b516f9e2.chunk.js",
+    "static/js/3.b516f9e2.chunk.js.map": "/ControlMyAC/static/js/3.b516f9e2.chunk.js.map",
     "index.html": "/ControlMyAC/index.html",
-    "precache-manifest.e78efe40bccf4f0d0f0ca8aec5d90f45.js": "/ControlMyAC/precache-manifest.e78efe40bccf4f0d0f0ca8aec5d90f45.js",
+    "precache-manifest.af4dcca11504bb3d4b44bc249d49e43e.js": "/ControlMyAC/precache-manifest.af4dcca11504bb3d4b44bc249d49e43e.js",
     "service-worker.js": "/ControlMyAC/service-worker.js",
     "static/css/2.93206a05.chunk.css.map": "/ControlMyAC/static/css/2.93206a05.chunk.css.map",
     "static/css/main.1b12d644.chunk.css.map": "/ControlMyAC/static/css/main.1b12d644.chunk.css.map",
-    "static/js/2.ae384257.chunk.js.LICENSE.txt": "/ControlMyAC/static/js/2.ae384257.chunk.js.LICENSE.txt",
+    "static/js/2.77fe011a.chunk.js.LICENSE.txt": "/ControlMyAC/static/js/2.77fe011a.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/ControlMyAC/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e76195ca.js",
+    "static/js/runtime-main.aaee4510.js",
     "static/css/2.93206a05.chunk.css",
-    "static/js/2.ae384257.chunk.js",
+    "static/js/2.77fe011a.chunk.js",
     "static/css/main.1b12d644.chunk.css",
-    "static/js/main.0b3dd8f8.chunk.js"
+    "static/js/main.87f2da20.chunk.js"
   ]
 }

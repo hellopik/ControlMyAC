@@ -1,0 +1,6 @@
+# ControlMyAC
+
+Repo ini ditujukan untuk tempat mendeploy react app project Internet of Things pribadi saya yaitu mengontrol AC kamar kost saya melalui internet dengan React JS dan Firebase. 
+
+Source code yang tidak berbentuk minified terdapat pada branch ....define later....
+Tutorial untuk project ini dari nol terdapat pada ....define later....

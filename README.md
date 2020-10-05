@@ -1,8 +1,8 @@
 # ControlMyAC
 
 
-![alt text](https://github.com/hellopik/ControlMyAC/blob/gh-pages/image/beranda-2.PNG?raw=true)
 ![alt text](https://github.com/hellopik/ControlMyAC/blob/gh-pages/image/beranda.PNG?raw=true)
+![alt text](https://github.com/hellopik/ControlMyAC/blob/gh-pages/image/beranda-2.PNG?raw=true)
 
 Repo ini ditujukan untuk tempat mendeploy react app dari project Internet of Things pribadi saya yaitu mengontrol AC kamar kost saya melalui internet.
 
